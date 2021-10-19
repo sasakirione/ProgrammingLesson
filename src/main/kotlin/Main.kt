@@ -1,0 +1,8 @@
+fun fizzBuzz() {
+
+}
+
+fun countPrime() {
+
+}
+
