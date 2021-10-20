@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
 class MainTest {
@@ -8,6 +9,6 @@ class MainTest {
 
     @Test
     fun countPrimeTest() {
-
+        Assertions.assertEquals(169, countPrime())
     }
 }

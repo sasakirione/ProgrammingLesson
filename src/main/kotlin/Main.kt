@@ -2,7 +2,7 @@ fun fizzBuzz() {
 
 }
 
-fun countPrime() {
-
+fun countPrime(): Int {
+    return 1
 }
 
